@@ -1,0 +1,33 @@
+version: "3.1"
+stories:
+- story: sad path 1 (/home/cergo/Desktop/Kurdish-Rasa2/tests/test_stories.yml)
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy  # predicted: mood_great: ne başe
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+- story: sad path 2 (/home/cergo/Desktop/Kurdish-Rasa2/tests/test_stories.yml)
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy  # predicted: mood_great: ne başe
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+- story: sad path 3 (/home/cergo/Desktop/Kurdish-Rasa2/tests/test_stories.yml)
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy  # predicted: mood_great: gelekî xirabe
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+- story: greeting new 1 (/home/cergo/Desktop/Kurdish-Rasa2/tests/test_stories.yml)
+  steps:
+  - intent: greet  # predicted: goodbye: dema te baş be?
+  - action: utter_greet

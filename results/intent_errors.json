@@ -1,0 +1,450 @@
+[
+  {
+    "text": "hey",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Slav",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Merheba",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "silav ji we re",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Beyanî baş",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Êvar baş",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Dem baş",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Roj baş",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Navroja we bixêr",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "bi xatirê te",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Dû re li te vedigerim",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Şev baş",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Şeva te ma xweş",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "xatirê te",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Roja te xweş be",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "paşê ezê te bibînim",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "erê",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "belê",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "bi rastî",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "bê guman",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "baş xuya dikê",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "rast e",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "na",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "ne",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "qet",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez wisa nafikirim",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "nabe",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "ne rast e",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "bêkêmasî",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "ecêb",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "xweşe",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "xwe wek padîşah hîs dike",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez xwe pir baş hîs dikim",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez mezin im",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez ecêb im",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez gelekî başim",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez diçim dinyayê xilas bikim",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "pir başe",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "ewqas bêkêmasî",
+    "intent": "mood_great",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Roja min xedar bû",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez xemgîn im",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez xwe pir baş nabînim",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez bêhêvî me",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "gelekî xemgînim",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ez pir xemgîn im",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "xemgîn",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "pir xemgîn",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "bêbext",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "ne baş e",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "ne pir baş",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "gelek xemgîn",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "dev jê berde",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "tu bot î?",
+    "intent": "bot_challenge",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "tu mirov î?",
+    "intent": "bot_challenge",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ma ez bi botekê re diaxivim?",
+    "intent": "bot_challenge",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "Ma ez bi mirovekî re diaxivim?",
+    "intent": "bot_challenge",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  }
+]

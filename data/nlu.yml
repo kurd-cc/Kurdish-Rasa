@@ -1,0 +1,83 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - hey
+      - Slav
+      - Merheba
+      - silav ji we re
+      - Beyanî baş
+      - Êvar baş
+      - Beyanî baş
+      - Êvar baş
+      - Dem baş
+      - Roj baş
+      - Navroja we bixêr
+
+  - intent: goodbye
+    examples: |
+      - bi xatirê te
+      - Dû re li te vedigerim
+      - Şev baş
+      - Şeva te ma xweş
+      - xatirê te
+      - bi xatirê te
+      - Roja te xweş be
+      - paşê ezê te bibînim
+
+  - intent: affirm
+    examples: |
+      - erê
+      - belê
+      - bi rastî
+      - bê guman
+      - baş xuya dikê
+      - rast e
+
+  - intent: deny
+    examples: |
+      - na
+      - ne
+      - qet
+      - Ez wisa nafikirim
+      - nabe
+      - ne rast e
+
+  - intent: mood_great
+    examples: |
+      - bêkêmasî
+      - ecêb
+      - xweşe
+      - xwe wek padîşah hîs dike
+      - Ez xwe pir baş hîs dikim
+      - Ez mezin im
+      - Ez ecêb im
+      - Ez gelekî başim
+      - Ez diçim dinyayê xilas bikim
+      - pir başe
+      - ewqas bêkêmasî
+
+  - intent: mood_unhappy
+    examples: |
+      - Roja min xedar bû
+      - Ez xemgîn im
+      - Ez xwe pir baş nabînim
+      - Ez bêhêvî me
+      - gelekî xemgînim
+      - Ez pir xemgîn im
+      - xemgîn
+      - pir xemgîn
+      - bêbext
+      - ne baş e
+      - ne pir baş
+      - pir xemgîn
+      - gelek xemgîn
+      - dev jê berde
+
+  - intent: bot_challenge
+    examples: |
+      - tu bot î?
+      - tu mirov î?
+      - Ma ez bi botekê re diaxivim?
+      - Ma ez bi mirovekî re diaxivim?
